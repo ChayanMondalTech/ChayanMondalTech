@@ -1,3 +1,25 @@
+# 💫 Hi 👋, I'm Chayan Mondal
+
+### 🚀 A passionate Full-Stack Web Developer from India 🇮🇳
+
+I love building modern, responsive, and scalable web applications. Passionate about frontend and backend development, problem-solving, and exploring new technologies.
+
+📧 **Email Me:** **chayanmondal.tech@gmail.com** for collaborations, projects, or professional opportunities.
+
+- 🔭 **I'm currently working on:** Full-Stack Web Applications and Personal Projects.
+- 🌱 **I'm currently learning:** Advanced React.js, Node.js, Backend Development, and Software Automation.
+- 👯 **I'm looking to collaborate on:** Open-Source Projects, Web Applications, and Innovative Development Projects.
+- 🤔 **I'm looking for help with:** Building scalable applications and exploring advanced software development concepts.
+- 💬 **Ask me about:** React.js, Node.js, MongoDB, JavaScript, Java, Selenium, HTML, and CSS.
+- 📫 **How to reach me:** Through GitHub or Email.
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I love turning ideas into code and solving problems through technology!
+
+### 💻 Tech Stack
+React.js | Node.js | MongoDB | JavaScript | Java | Selenium | HTML5 | CSS3 | Git | GitHub
+
+### 🚀 Developer Mindset
+**Code. Create. Learn. Innovate. Repeat.**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RadhaKrishnaBhaktaChayan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chayan.mondal.26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/chayan-mondal-b29024256) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chayanmondal.tech@gmail.com) 
